@@ -1,0 +1,8 @@
+E:\Projects\CreateTextBox\CreateTextBox\bin\Debug\CreateTextBox.exe.config
+E:\Projects\CreateTextBox\CreateTextBox\bin\Debug\CreateTextBox.exe
+E:\Projects\CreateTextBox\CreateTextBox\bin\Debug\CreateTextBox.pdb
+E:\Projects\CreateTextBox\CreateTextBox\obj\Debug\CreateTextBox.csprojResolveAssemblyReference.cache
+E:\Projects\CreateTextBox\CreateTextBox\obj\Debug\CreateTextBox.Properties.Resources.resources
+E:\Projects\CreateTextBox\CreateTextBox\obj\Debug\CreateTextBox.csproj.GenerateResource.Cache
+E:\Projects\CreateTextBox\CreateTextBox\obj\Debug\CreateTextBox.exe
+E:\Projects\CreateTextBox\CreateTextBox\obj\Debug\CreateTextBox.pdb
